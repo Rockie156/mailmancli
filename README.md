@@ -1,12 +1,11 @@
 
-**This is not an official piece of software. This is a Github mirror of
-my GSoC 2014 project with mailman. Here are the links to the official
-mailman projects:
+>This is not an official piece of software. This is a Github mirror of
+>my GSoC 2014 project with mailman. Here are the links to the official
+>mailman projects:
 
-https://code.launchpad.net/~mailman-coders
-https://code.launchpad.net/~mailman-coders/mailman.client
+>https://code.launchpad.net/~mailman-coders
+>https://code.launchpad.net/~mailman-coders/mailman.client
 
-**
 
 ===========================================================
 mailman.client - Python bindings for the Mailman 3 REST API
