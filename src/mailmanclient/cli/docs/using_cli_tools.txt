@@ -171,7 +171,7 @@ without stalling.
 User
 ====
 
-Craete User
+Create User
 -----------
 
 To create a new user::
